@@ -35,11 +35,12 @@ Existen dos tipos de lenguajes: Los que se interpretan y los que se compilan. Su
 
 
 
-||**Interpretados**|**Compilados**
-|**Resultado**|Programa tipo "texto"|Archivo ejecutable, .exe ...
-|**Privacidad del código**|Escasa|Elevada
-|**Multiplataforma**|Sí|No. Sólo funcionará en la plataforma donde se haya compilado
-|**Velocidad de ejecución**|Baja |Alta
+|Característica|**Interpretados**|**Compilados**|
+|--|--|--|
+|**Resultado**|Programa tipo "texto"|Archivo ejecutable, .exe ...|
+|**Privacidad del código**|Escasa|Elevada|
+|**Multiplataforma**|Sí|No. Sólo funcionará en la plataforma donde se haya compilado|
+|**Velocidad de ejecución**|Baja |Alta|
 
 <br /><br />
 
@@ -49,7 +50,7 @@ Python es un lenguaje interpretado con un motor muy potente que hace que su velo
 
 
 
-**Salimos de la explicación avanzada: **Los alumnos rara vez conocen estos problemas y, por tanto, no prestan atención a esto. Convendría dejarles unas pocas ideas claras. Éstas serían:
+**Salimos de la explicación avanzada:** Los alumnos rara vez conocen estos problemas y, por tanto, no prestan atención a esto. Convendría dejarles unas pocas ideas claras. Éstas serían:
 
 
 

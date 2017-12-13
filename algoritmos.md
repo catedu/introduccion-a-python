@@ -7,7 +7,7 @@ Esta pregunta en una clase genera varios problemas, los alumnos no suelen saber 
 
 **Modo avanzado:** Un algoritmo es el conjunto de pasos necesarios que, realizados en el orden marcado por el mismo, nos conducirán a la solución del problema.
 
-**Modo terrestre: **Un algoritmo es una especie de “receta” que nos dice qué debemos hacer y cuándo para realizar algo. Por ejemplo: El algoritmo de freír un huevo sería: “poner aceite en una sartén, calentar el aceite hasta que hierva, cascar el huevo con cuidado, abrir la cáscara encima de la sartén a una altura adecuada, esperar que se fría y sacarlo con una rasera”. 
+**Modo terrestre:** Un algoritmo es una especie de “receta” que nos dice qué debemos hacer y cuándo para realizar algo. Por ejemplo: El algoritmo de freír un huevo sería: “poner aceite en una sartén, calentar el aceite hasta que hierva, cascar el huevo con cuidado, abrir la cáscara encima de la sartén a una altura adecuada, esperar que se fría y sacarlo con una rasera”. 
 
 Programar no es sino hacer algoritmos que, posteriormente, se traducen a lenguaje de programación. Es tan importante conocer las órdenes como saber dónde ubicarlas, y quien decide esto último es el algoritmo. 
 

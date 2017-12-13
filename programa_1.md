@@ -9,7 +9,7 @@ Queremos saludar al mundo de la programación en Python sacando por pantalla "Ho
 
 **Materia nueva:**
 
-**print **es la orden de sacar por pantalla, puede sacar texto, variables o una combinación de ambas. Si es texto, éste debe ir entrecomillado, si es una variable, no. 
+**print** es la orden de sacar por pantalla, puede sacar texto, variables o una combinación de ambas. Si es texto, éste debe ir entrecomillado, si es una variable, no. 
 
 Su sintaxis es:
 

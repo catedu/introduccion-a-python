@@ -9,7 +9,7 @@ Ahora imaginemos que, en el programa anterior, queremos evitar que pongan una le
 
 Para comprobar si puede ser un entero o un decimal, tenemos las siguientes funciones:
 
-cadenaaanalizar**.isdigit()**
+cadenaaanalizar.isdigit()
 
 Esta función devuelve True si es un número o False si se trata de texto
 
@@ -17,7 +17,7 @@ Hay muchas funciones más. Para ello es necesario leer los documentos de Python 
 
 La siguiente estructura que se va a presentar es la que nos va a permitir hacer algo un **número indefinido de veces:**
 
-**while** *condición ***:**
+**while** condición:
 
           Órdenes
 

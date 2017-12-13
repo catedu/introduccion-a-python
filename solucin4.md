@@ -53,9 +53,6 @@ Introduce 24 como edad para comprobar que sólo entra como alumno.
 <li>
 Introduce “a” como edad, a ver qué pasa.
 </li>
-- Realiza el algoritmo para ajustarlo a esa modificación que hemos realizado después del fallo.
-
-edad=float(edad) A ver si hay diferencia si es un entero o no.
-
-Introduce “a” como edad, a ver qué pasa.
+<li>
+Realiza el algoritmo para ajustarlo a esa modificación que hemos realizado después del fallo.
 

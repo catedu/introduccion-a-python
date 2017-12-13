@@ -3,7 +3,7 @@
 
 Antes de nada, debes mirar bien esta imagen:
 
-[http://conectablog.blogspot.com/2010/08/humor-usuarios-e-informaticos.html](http://conectablog.blogspot.com/2010/08/humor-usuarios-e-informaticos.html)
+![](img/usuario_vs_informaticos_thumb[3].png)[http://conectablog.blogspot.com/2010/08/humor-usuarios-e-informaticos.html](http://conectablog.blogspot.com/2010/08/humor-usuarios-e-informaticos.html)
 
 Si no quieres que tus alumnos tengan esa imagen de ti ni tú de ellos, es necesario que siempre les hables en un idioma que, no sólo entiendan sino que puedan contrastar, les pueda interesar... El riesgo de caer en dos mundos paralelos es alto cuando estamos hablando de algo tan especializado o donde se pueden perder fácilmente. 
 

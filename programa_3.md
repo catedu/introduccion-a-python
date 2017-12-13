@@ -13,19 +13,19 @@ Signos de comparación:
 
 Si queremos ver si una variable tiene un valor determinado, mayor, menor... lo normal es usar los signos que usaríamos en matemáticas, aunque hay alguna pequeña sorpresa, y que represento a continuación:
 
-x**==**y         # x es igual a y. Mucho cuidado con esta comparación, se usan dos iguales seguidos.
+x==y         # x es igual a y. Mucho cuidado con esta comparación, se usan dos iguales seguidos.
 
-x **!=** y        # x es distinto de y
+x!=y        # x es distinto de y
 
 El resto son los tradicionales:
 
-x **&gt;** y          # x es mayor que y
+x&gt;y          # x es mayor que y
 
-x **&lt;** y          # x es menor que y
+x&lt;y          # x es menor que y
 
-x **&gt;=** y        # x es mayor o igual que y
+x&gt;=y        # x es mayor o igual que y
 
-x** &lt;=** y        # x es menor o igual que y
+x&lt;=y        # x es menor o igual que y
 
 <br />Primera estructura de control: If
 
@@ -33,11 +33,11 @@ If viene del inglés y es un condicional que significa si. El lenguaje usa la si
 
 
 
-**if** *comparación ***:**
+**if** comparación :
 
        órdenes
 
-**elif** *comparación***:**
+**elif** comparación:
 
        órdenes
 
@@ -62,14 +62,11 @@ En el caso de no cumplirse nada de lo anterior:
 Hay que decir varias cosas:
 
 <li>
-Puede haber tantos** elif** como queramos.
+Puede haber tantos elif como queramos.
 </li>
 <li>
 Las órdenes deben ir identadas o jerarquizadas, es decir, con una tabulación. En cualquier lenguaje, esto siempre se recomendaba para facilitar la lectura del programa pero Python lo exige porque no usa otra forma de agrupar órdenes. Es decir, todo lo que esté en el mismo nivel pertenece a un mismo bloque. Por eso, en Python es común ver la línea izquierda del texto de forma sinuante.
 </li>
 <li>
-No te olvides de los dos puntos tras cada comparación o **else**.
+No te olvides de los dos puntos tras cada comparación o else.
 </li>
-
-Las órdenes deben ir identadas o jerarquizadas, es decir, con una tabulación. En cualquier lenguaje, esto siempre se recomendaba para facilitar la lectura del programa pero Python lo exige porque no usa otra forma de agrupar órdenes. Es decir, todo lo que esté en el mismo nivel pertenece a un mismo bloque. Por eso, en Python es común ver la línea izquierda del texto de forma sinuante.
-

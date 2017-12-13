@@ -9,7 +9,7 @@ Ahora toca practicar lo aprendido con varios ejercicios que deben resolverse con
 
 **1.- Realiza un programa donde se pida dos números y la operación a realizar (a elegir entre suma, resta, multiplicación y división). Posteriormente debe dar el resultado y preguntar si queremos hacer otra operación. Identificar si se quiere realizar una división por 0.**
 
-Ten en cuenta que los operadores matemáticos simples son:" + " para la suma," - " para la resta," * " para la multiplicación y " / " para la división. En este programa se recomienda convertir el texto que devuelve **input **a un número tipo **float.**
+Ten en cuenta que los operadores matemáticos simples son:" + " para la suma," - " para la resta," * " para la multiplicación y " / " para la división. En este programa se recomienda convertir el texto que devuelve **input** a un número tipo **float.**
 
 
 
@@ -39,7 +39,7 @@ En este caso, diferenciar si es par o impar lo podemos hacer con la operación q
 
 4 **%** 2 = 0
 
-5 **% **2 = 1
+5 **%** 2 = 1
 
 Se le llama módulo. Nada que ver con el módulo de un vector en matemáticas.
 
@@ -49,11 +49,5 @@ Es un problema donde te van a hacer falta variables que guarden esos números e 
 
 
 
-
-
-**** ****
-
-****NOTA: Las soluciones no son únicas. Los programas que realices pueden ser igualmente correctos aunque sean más largos, usen más variables, etc. ****
-
-**** ****
+**NOTA: Las soluciones no son únicas. Los programas que realices pueden ser igualmente correctos aunque sean más largos, usen más variables, etc.**
 

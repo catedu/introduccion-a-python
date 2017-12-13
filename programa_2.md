@@ -18,27 +18,14 @@ Booleana: Tiene sólo dos valores: True o False, verdadero o falso. Imaginemos q
 </li>
 <li>
 Numérica: Representa cualquier número pero el lenguaje los divide, como en la vida real en:
-</li>
-<li>
-Entero
-</li>
-<li>
-Real
-</li>
-<li>
-Complejo
+
+- Entero
+- Real
+- Complejo
 </li>
 <li>
 Cadena de caracteres: Representa cualquier símbolo o conjunto de símbolos que se introduzcan por el teclado, aunque luego veremos que hay caracteres especiales, como por ejemplo el que nos indica el final de la línea, final de archivo...
 </li>
-
-Numérica: Representa cualquier número pero el lenguaje los divide, como en la vida real en:
-
-Real
-
-Cadena de caracteres: Representa cualquier símbolo o conjunto de símbolos que se introduzcan por el teclado, aunque luego veremos que hay caracteres especiales, como por ejemplo el que nos indica el final de la línea, final de archivo...
-
-
 
 Hay más tipos de datos pero, de momento, es mejor no recargar. Con esto podemos ir haciendo varios programas y, por lo pronto, solucionar el que tenemos entre manos.
 
@@ -54,9 +41,9 @@ Otros elementos de teoría necesarios:
 
 Para pedir información existe la función: **input** (“mensaje que se le da al usuario para decirle qué le pedimos”).
 
-Esta función tiene las mismas posibilidades que **print** respecto a mostrar variables o texto. La diferencia entre las dos es que con **print **no esperamos respuesta y con **input **sí, que siempre será una variable tipo Cadena de caracteres. 
+Esta función tiene las mismas posibilidades que **print** respecto a mostrar variables o texto. La diferencia entre las dos es que con **print** no esperamos respuesta y con **input** sí, que siempre será una variable tipo Cadena de caracteres. 
 
-Para asignarle a una variable esa respuesta, el símbolo de asignación es, como en la vida real: **=**.
+Para asignarle a una variable esa respuesta, el símbolo de asignación es, como en la vida real, "**=**".
 
 A diferencia de otros lenguajes de programación, Python no requiere que declaremos las variables con antelación, tan sólo hay que usarlas y él se encarga de todo.
 

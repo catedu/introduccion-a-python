@@ -20,9 +20,9 @@ Observa que el propio editor nos ayuda diferenciando mediante colores la funció
 
 **Explicación:**
 
-**print("Hola, Mundo"): **Es la orden que hemos nombrado como materia nueva. En este caso tenemos que mostrar un texto, es la primera opción que hemos nombrado de esta orden.
+**print("Hola, Mundo"):** Es la orden que hemos nombrado como materia nueva. En este caso tenemos que mostrar un texto, es la primera opción que hemos nombrado de esta orden.
 
-**Hola, Mundo **es el texto que debe sacar. Por eso está entre comillas, porque tiene que mostrarlo tal cual.
+**Hola, Mundo** es el texto que debe sacar. Por eso está entre comillas, porque tiene que mostrarlo tal cual.
 
 **Comentarios:**
 

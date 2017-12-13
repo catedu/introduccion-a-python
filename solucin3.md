@@ -22,9 +22,9 @@ Como puede verse en la salida, se ha ejecutado dos veces, una respondiendo con e
 
 **Explicación:**
 
-La estructura **if** es muy simple en este caso, sólo tenemos que distinguir dos posibilidades, por eso únicamente hay **if **y **else.**
+La estructura **if** es muy simple en este caso, sólo tenemos que distinguir dos posibilidades, por eso únicamente hay **if** y **else.**
 
-**if nombre=="****Jorge":** le dice: Si lo que la variable nombre contiene es igual (**==**) a la palabra (por eso está entrecomillado) "**Jorge"** entonces sigue lo que te digo tras los dos puntos "**:"**
+**if nombre=="Jorge":** le dice: Si lo que la variable nombre contiene es igual (**==**) a la palabra (por eso está entrecomillado) "**Jorge"** entonces sigue lo que te digo tras los dos puntos "**:"**
 
 **else: **le dice: Si no se ha cumplido la comparación del **if** entonces haz lo siguiente a los dos puntos "**:"**. 
 
