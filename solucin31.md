@@ -22,5 +22,5 @@
 
 Es necesario hacer la tabla indicada en el apartado de **Materia nueva **para entender qué está pasando con la variable **saludo**. Queda como ejercicio.
 
-Queda como ejercicio conseguir que entre **Inés **y **Verónica** haya una **y.**
+Queda como ejercicio conseguir que entre **Inés** y **Verónica** haya una **y.**
 

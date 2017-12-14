@@ -9,31 +9,12 @@ Queremos realizar un programa que modifique el número 7. Esta vez sólo queremo
 
 Existe otro tipo de datos que se llama List (lista). Una lista es, tal y como se puede pensar, lo mismo que en la vida real salvo que, en Python, el primer elemento siempre es el 0. Imaginemos que queremos preparar una cena. Todo lo que se nos ocurra podemos hacerlo en Python, por ejemplo:
 
-
-
-Vida real
-
-Python
-
-Contar el número de comensales:
-
-len(lista) len es una abreviatura de length
-
-Decir qué comensal ocupa el número 3, por ejemplo
-
-lista[3] Siempre entre corchetes
-
-Escoger del 7 al 14
-
-lista[7:14] Tened en cuenta el 0!!
-
-Añadir uno al final
-
-lista.append(otrocomensal)
-
-<br /><br />
-
-
+|Vida real|Python|
+|--|--|
+|Contar el número de comensales:|len(lista) len es una abreviatura de length|
+|Decir qué comensal ocupa el número 3, por ejemplo|lista[3] Siempre entre corchetes|
+|Escoger del 7 al 14|lista[7:14] Tened en cuenta el 0!!|
+|Añadir uno al final|lista.append(otrocomensal)|
 
 Hay muchas más posibilidades, como se puede ver en:
 
@@ -49,11 +30,11 @@ Se declara nombrando la lista y poniendo:
 
 
 
-listanueva=**[] **Si la queremos vacía para ir llenándola a lo largo del programa.
+listanueva **[]** Si la queremos vacía para ir llenándola a lo largo del programa.
 
 
 
-listanueva= **[**"Lunes","Martes","Miércoles","Jueves","Viernes"**] ** Si queremos los días laborables. Es decir, se introducen los elementos separados por comas.
+listanueva= **[** "Lunes","Martes","Miércoles","Jueves","Viernes" ] Si queremos los días laborables. Es decir, se introducen los elementos separados por comas.
 
 
 
@@ -61,5 +42,5 @@ De momento, nos conformaremos con lo expuesto y resolveremos el problema.
 
 Ahora retomaremos a una vieja conocida: **str(**algoqueconvertiratexto**)**
 
-Esta función también puede convertir una lista a texto. Usadlo en este programa: **str****(**lista**)**
+Esta función también puede convertir una lista a texto. Usadlo en este programa: **str** **(** lista **)**
 

@@ -8,9 +8,10 @@ Si miramos el programa número 11, nos damos cuenta de que es todo como un spagh
 
 
 ![](img/14a.png)
+
 Este tipo de programación se le llama Programación Spaghetti. El programa que hemos hecho es sumamente simple pero, si imaginamos un programa de 2000 líneas, el problema de lectura puede ser tan serio que retocar algo del mismo nos suponga un dolor.
 
-Para evitar esto existen las funciones, que no es otra cosa que sacar código del hilo principal para llamarlo cuando nos convenga. De esta forma, tendremos el programa muy claro para leer y retocar.
+Para evitar esto existen las funciones, que no es otra cosa que sacar código del hilo principal para llamarlo cuando nos convenga. De esta forma, tendremos el **programa** muy claro para leer y retocar.
 
 El programa 12 consiste en extraer la parte de la ocupación del hilo principal.
 
@@ -18,7 +19,7 @@ El programa 12 consiste en extraer la parte de la ocupación del hilo principal.
 
 Una función se define en Python de la siguiente manera:
 
-**def** nombredelafuncion** (**variablesquevaausar**)**
+**def** nombredelafuncion (**variablesquevaausar**)
 
           Órdenes
 
