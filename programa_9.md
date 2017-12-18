@@ -88,7 +88,7 @@ Se representa a continuación el del programa 7:
 ||||"14"|||
 ||||||Te hemos preguntado 1 veces|
 ||||||Estudia, Inés|
-|3|2|"Inés"|14|1||
+|3|2|"Inés"|14|1|||
 
 Situación final. En el caso de que quisiéramos ver otra situación, nos moveríamos a la línea en cuestión y miraríamos el valor de cada una de ellas. Las celdas en blanco no implican que las variables no tengan valor, su valor es el del último cambio: el primero que esté subiendo por esa columna desde la fila donde se quiere saber el valor. Simplemente se ha hecho así por limpieza e identificar fácilmente cuál es la variable que está cambiando en cada momento.
 
