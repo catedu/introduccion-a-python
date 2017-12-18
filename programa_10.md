@@ -17,7 +17,7 @@ A continuación, se va a presentar una orden referida a las Cadenas de caractere
 
 Return a string which is the concatenation of the strings in the **iterable**. A Type error will be raised if there are any non-string values in **seq**, including bytes objects. The separator between elements is the string providing this method.
 
-Si se ha abierto el enlace, vemos que algunas de las palabras son enlaces que nos llevan a la página donde se explica lo que es. De momento, lo que con este curso se puede leer es poco pero haremos el intento y te pido que lo hagas con **.isdigit() **que también está en ese enlace.
+Si se ha abierto el enlace, vemos que algunas de las palabras son enlaces que nos llevan a la página donde se explica lo que es. De momento, lo que con este curso se puede leer es poco pero haremos el intento y te pido que lo hagas con **.isdigit()** que también está en ese enlace.
 
 Si traducimos casi literalmente: Devuelve una Cadena que es la concatenación de cadenas presentes en el "iterable" (quiere decir: A container object capable of returning its members one at a time. Un objeto contenedor capaz de devolver sus miembros de uno en uno). Se lanzará un error de tipo (ya vimos uno en los primeros programas antes de introducir **str()**) si no hay valores tipo Cadena en la secuencia, incluyendo Cadenas de bytes (fuera del alcance de este curso y novedad en Python 3.0). El separador entre elementos es la Cadena sobre la que se le aplica el método (lo primero que se pone antes del punto: **str**).
 

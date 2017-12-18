@@ -20,6 +20,7 @@
 **Solución:**
 
 ![](img/15.png)
+
 **Comentarios:**
 
 El mayor problema de este programa es realizar un algoritmo que calcule el mínimo común divisor. Si las dificultades vienen de ahí, no pasa nada, se irá alcanzando la suficiencia algorítmica con el tiempo y la práctica.

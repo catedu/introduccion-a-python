@@ -7,22 +7,23 @@
 
 2.- Para cada uno de ellos:
 
-      2.1.- Guardarlo bajo la "Key": "Número"
+- 2.1.- Guardarlo bajo la "Key": "Número"
 
-      2.2.- Comprobar si es menor, mayor y primo y guardarlo bajo las "Keys": "Menor", "Mayor" y "Primo"
+- 2.2.- Comprobar si es menor, mayor y primo y guardarlo bajo las "Keys": "Menor", "Mayor" y "Primo"
 
-      2.3.- Contar con la función **len( **s **) **la cantidad de caracteres del número pasado a Cadena de caracteres y guardarlo bajo la "Key": "Cifras"
+- 2.3.- Contar con la función **len( **s **) **la cantidad de caracteres del número pasado a Cadena de caracteres y guardarlo bajo la "Key": "Cifras"
 
 3.- Sacar la lista de diccionarios por la pantalla. 
 
 **Solución:**
 
 ![](img/16.png)
+
 **Explicación:**
 
 En este caso, en las órdenes:
 
-**numero["Mayor"]=esmayor(i,originales)**   y **esmenor(i,originales) **podemos ver que se ha trasladado a la función una lista entera. 
+numero["Mayor"]=esmayor(i,originales)   y esmenor(i,originales)  podemos ver que se ha trasladado a la función una lista entera. 
 
 Podría parecer que sólo admitiría variables simples pero, realmente, no existe límite de datos o variables a la hora de pasar a las funciones.
 

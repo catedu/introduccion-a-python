@@ -9,29 +9,9 @@ Se desea realizar un programa que guarde el nombre, la edad y lo que se les reco
 
 Los Diccionarios son un tipo de datos que puede guardar para una sola variable un conjunto de campos. Pongamos un ejemplo: Imaginemos un alumno. Existe un montón de información que podríamos querer guardar sobre él y hacer una tabla como:
 
-Nombre
-
-Apellido 1
-
-Apellido 2
-
-Altura
-
-Nº Calzado
-
-Color de pelo
-
-Jorge
-
-Bes
-
-Tuán
-
-2 m
-
-47
-
-Negro
+|Nombre|Apellido 1|Apellido 2|Altura|Nº Calzado|Color de pelo|
+|--|--|--|--|--|--|
+Jorge|Bes|Tuán|2 m|47|Negro|
 
 Cuando alguien nos preguntara por este alumno, lo haría diciéndonos: Dime el primer apellido del alumno, el color de pelo... Es decir, nos diría el campo que quiere. Tras esto, nosotros iríamos a la celda y responderíamos con la información allí contenida. 
 
@@ -41,7 +21,7 @@ Una duda que suele asaltar es: ¿Por qué sólo una fila? ¿Y si queremos guarda
 
 La sintaxis para declarar un diccionario vacío es:
 
-diccionario**={}**
+diccionario **={}**
 
 Y para guardar cualquier dato es:
 
@@ -55,5 +35,5 @@ Un diccionario tiene muchísimas más posibilidades en Python, como se puede ver
 
 No obstante, en este curso no se va sino a introducir este tipo de variable. Queda demostrada la potencia de Python y el nivel de abstracción de los datos y se anima a los alumnos a completar su formación conforme lo vayan necesitando para sus proyectos. 
 
-NOTA: Si vas a introducir cambios en un diccionario dentro de una estructura como **for **o **while**, que los ejecutará varias veces, declara esa variable dentro de la estructura y no fuera. Más adelante se explica el por qué. 
+NOTA: Si vas a introducir cambios en un diccionario dentro de una estructura como **for** o **while**, que los ejecutará varias veces, declara esa variable dentro de la estructura y no fuera. Más adelante se explica el por qué. 
 

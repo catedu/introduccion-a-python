@@ -21,9 +21,8 @@ Una función se define en Python de la siguiente manera:
 
 **def** nombredelafuncion (**variablesquevaausar**)
 
-          Órdenes
-
-       **    return** **(**variableadevolver**)**
+    Órdenes
+    return(variableadevolver)
 
 
 

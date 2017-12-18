@@ -13,7 +13,7 @@ En este caso, nos falta por saber cómo conocer la longitud de una cadena (es un
 
 NOTA: 
 
-**Modo avanzado: **Recuerda que, para cada variable nueva tipo diccionario, es necesario declararla para que no apunte a la misma dirección de memoria.  
+- **Modo avanzado:** Recuerda que, para cada variable nueva tipo diccionario, es necesario declararla para que no apunte a la misma dirección de memoria.  
 
-**Modo terrestre: **Mete la declaración en el bucle para que se declare y sea nueva cada vez que se usa.
+- **Modo terrestre:** Mete la declaración en el bucle para que se declare y sea nueva cada vez que se usa.
 

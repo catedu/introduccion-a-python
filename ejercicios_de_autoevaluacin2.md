@@ -7,7 +7,7 @@ Felicidades por haber finalizado el Módulo 3. A continuación se muestran los p
 
 Como ayuda: Habrá que realizar una lista con los múltiplos de cada número hasta el producto de los dos que el usuario no dé, ya que será el máximo valor del mcm.
 
-Por lo demás, el proceso es igual que en el mcd pero teniendo en cuenta que, si empezamos buscando desde el valor más bajo, una vez que encuentra la primera coincidencia en las dos listas, ya no querremos que vuelva a cambiar ese valor. Hay una orden que se llama **break **y permite salir del bucle **for **o **while **donde está metido. En este caso no nos ayudará porque estamos metidos en dos. Es necesario usar una booleana que registre si ya ha sido localizado o no y, por tanto, permitir o no, el cambio ante más coincidencias. 
+Por lo demás, el proceso es igual que en el mcd pero teniendo en cuenta que, si empezamos buscando desde el valor más bajo, una vez que encuentra la primera coincidencia en las dos listas, ya no querremos que vuelva a cambiar ese valor. Hay una orden que se llama **break **y permite salir del bucle **for** o **while** donde está metido. En este caso no nos ayudará porque estamos metidos en dos. Es necesario usar una booleana que registre si ya ha sido localizado o no y, por tanto, permitir o no, el cambio ante más coincidencias. 
 
 Si se hace la lista de multiplicadores empezando por el más alto, nos ahorramos ese pequeño tinglado.
 

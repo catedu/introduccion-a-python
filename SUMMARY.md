@@ -42,7 +42,7 @@ ____
 ### 3. Llegando al final
 * [Llegando al final](index2.md)
 * [Programa 11](programa_11.md)
-    * [Solución](solucin2.md)
+    * [Solución](solucin23.md)
 * [Programa 12](programa_12.md)
     * [Solución](solucin22.md)
 * [Programa 13](programa_13.md)
