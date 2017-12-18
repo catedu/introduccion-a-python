@@ -11,7 +11,7 @@ Los Diccionarios son un tipo de datos que puede guardar para una sola variable u
 
 |Nombre|Apellido 1|Apellido 2|Altura|Nº Calzado|Color de pelo|
 |--|--|--|--|--|--|
-Jorge|Bes|Tuán|2 m|47|Negro|
+|Jorge|Bes|Tuán|2 m|47|Negro|
 
 Cuando alguien nos preguntara por este alumno, lo haría diciéndonos: Dime el primer apellido del alumno, el color de pelo... Es decir, nos diría el campo que quiere. Tras esto, nosotros iríamos a la celda y responderíamos con la información allí contenida. 
 
