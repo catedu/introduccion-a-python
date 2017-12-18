@@ -15,19 +15,20 @@ Pues bien, **for** puede, no sólo recorrer una lista de enteros sino también u
 
 Su sintaxis es muy parecida a la que vimos en el programa 7 pero usando la lista dentro de **range**:
 
-**for i in range(**lista**):**<br />
-
+```python
+for i in range(lista):
+``` 
 
 
 Si sólo fuera cuestión de números, podríamos haber simulado una estructura for por medio de un while:
 
 i=0
 
-**while** i&lt;numerofinal **:**
-
-    órdenes
-    i=i+1
-
+```python
+while i&lt;numerofinal:
+órdenes
+i=i+1
+```
 Si **for** se ha ganado un puesto en Python es por la potencia que otorga esta posibilidad.
 
 En este programa vamos a hacer referencia a dos situaciones más que van indisolublemente unidas:

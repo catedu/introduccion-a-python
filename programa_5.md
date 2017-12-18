@@ -17,10 +17,11 @@ Hay muchas funciones más. Para ello es necesario leer los documentos de Python 
 
 La siguiente estructura que se va a presentar es la que nos va a permitir hacer algo un **número indefinido de veces:**
 
-**while** condición:
+```python
+while condición:
 
           Órdenes
-
+```
 While en inglés significa “mientras”. Por tanto, la traducción sería:
 
 Mientras se cumpla la condición:

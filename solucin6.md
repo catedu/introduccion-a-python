@@ -48,7 +48,7 @@ Probar a mostrar el número de veces sin haber transformado la variable en texto
 Probar qué pasa si ponemos el número sin fallar ninguna vez y solucionar el dato erróneo que da.
 </li>
 <li>
- Probar a hacerlo de tal forma que, cada vez que pregunte, diga las veces que lleva. Hay muchas formas de hacerlo pero te puede servir de ayuda el hecho de que **str(**veces**)** no convierte la variable **veces** en texto si no se guarda, simplemente devuelve una Cadena de caracteres a partir del valor de **veces**. 
+ Probar a hacerlo de tal forma que, cada vez que pregunte, diga las veces que lleva. Hay muchas formas de hacerlo pero te puede servir de ayuda el hecho de que str(veces) no convierte la variable "veces" en texto si no se guarda, simplemente devuelve una Cadena de caracteres a partir del valor de "veces". 
 </li>
 
 Probar a mostrar el número de veces sin haber transformado la variable en texto.

@@ -33,8 +33,10 @@ Se declara nombrando la lista y poniendo:
 listanueva **[]** Si la queremos vacía para ir llenándola a lo largo del programa.
 
 
-
-listanueva= **[** "Lunes","Martes","Miércoles","Jueves","Viernes" ] Si queremos los días laborables. Es decir, se introducen los elementos separados por comas.
+```python
+listanueva= ["Lunes","Martes","Miércoles","Jueves","Viernes"]
+```
+Si queremos los días laborables. Es decir, se introducen los elementos separados por comas.
 
 
 

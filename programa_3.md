@@ -32,19 +32,19 @@ x&lt;=y        # x es menor o igual que y
 If viene del inglés y es un condicional que significa si. El lenguaje usa la siguiente sintaxis:
 
 
-
-**if** comparación :
-
-       órdenes
-
-**elif** comparación:
+```python
+if comparación :
 
        órdenes
 
-**else:**
+elif comparación:
 
        órdenes
 
+else:
+
+       órdenes
+```
 <br />Traduzcamos esto teniendo en cuenta que elif es la abreviatura de else if y que else significa “en otro caso”
 
 Si *secumplelacondición*:

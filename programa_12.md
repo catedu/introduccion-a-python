@@ -18,18 +18,17 @@ El programa 12 consiste en extraer la parte de la ocupación del hilo principal.
 **Materia nueva:**
 
 Una función se define en Python de la siguiente manera:
-
-**def** nombredelafuncion (**variablesquevaausar**)
-
-    Órdenes
-    return(variableadevolver)
-
+```python
+def nombredelafuncion (variablesquevaausar)
+Ordenes
+return(variableadevolver)
+```
 
 
 Para recibir el dato que devuelve (**return** significa devolver) es necesario guardarlo en algún sitio. Lo habitual es asignarlo a una variable:
-
+```python
 variable=nombredelafuncion (variablequeleentregamos)
-
+```
 <br />Respecto a la ubicación de las funciones, lo habitual es declararlas antes de que empiece el programa. Por lo tanto, las primeras líneas se dedican a escribir funciones y el hilo principal del programa viene después.
 
 Una vez definida, la llamada es tan simple como poner el nombre de la función y decirle qué variables va a usar.
